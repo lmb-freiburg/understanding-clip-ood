@@ -1,0 +1,2 @@
+# Exclude dependency code from being counted in GitHub's language stats
+deps/* linguist-vendored=true

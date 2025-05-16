@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you find our approach interesting for your own work, please cite it as below."
+authors:
+  - family-names: Kempf
+    given-names: Elias
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Argus
+    given-names: Max
+  - family-names: Brox
+    given-names: Thomas
+title: "When and How Does CLIP Enable Domain and Compositional Generalization?"
+version: 0.1.0
+url: "https://github.com/lmb-freiburg/understanding-clip-ood"
