@@ -12,3 +12,18 @@ authors:
 title: "When and How Does CLIP Enable Domain and Compositional Generalization?"
 version: 0.1.0
 url: "https://github.com/lmb-freiburg/understanding-clip-ood"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Kempf
+    given-names: Elias
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Argus
+    given-names: Max
+  - family-names: Brox
+    given-names: Thomas
+  url: "https://arxiv.org/abs/2502.09507"
+  collection-title: "Proceedings of the 42nd International Conference on Machine Learning"
+  title: "When and How Does CLIP Enable Domain and Compositional Generalization?"
+  year: 2025

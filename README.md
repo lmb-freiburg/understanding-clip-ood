@@ -4,10 +4,10 @@ Official code for our paper ["When and How Does CLIP Enable Domain and Compositi
 
 If you find this work useful, please consider citing our paper:
 ```bibtex
-@article{kempf2025and,
+@inproceedings{kempf2025and,
     title={When and How Does CLIP Enable Domain and Compositional Generalization?},
     author={Kempf, Elias and Schrodi, Simon and Argus, Max and Brox, Thomas},
-    journal={arXiv preprint arXiv:2502.09507},
+    booktitle={Proceedings of the 42nd International Conference on Machine Learning},
     year={2025}
 }
 ```
